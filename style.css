@@ -1,1 +1,16 @@
+Body {
+ background-color: #2E4053;
+  color: #F4F6F7;
+ font- family: Cambria, Georgia, sans-serif;
+ margin: 10% 20%;
+}
 
+.exp-header {
+  text-transform: uppercase;
+  border-top: 1px solid #F4F6F7;
+  border-bottom: 1px solid #F4F6F7;
+  backround-color: rgba (0,0,0,1)
+}
+[p.indent
+text indent: 70px; 
+]
