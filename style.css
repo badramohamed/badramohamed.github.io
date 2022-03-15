@@ -1,9 +1,10 @@
 Body {
+ 
  background-color: #ffffff;
-  color: #000000;
- font-family: Helvetica, Tahoma sans-serif;
+  color: #FDFEFE;
+ font-family: Arial, Tahoma sans-serif;
  margin-left: 245px; 
-  background-color: rgb(245, 255, 250)
+  background-color: rgb(40, 55, 71)
 }
  
 
@@ -11,7 +12,7 @@ Body {
   text-align: center;
   text-transform: uppercase;
   border-top: 1px solid #F4F6F7;
-  border-bottom: 1px solid #F4F6F7;
+  border-bottom: 1px solid #F7F9F9;
 
 }
 
@@ -24,8 +25,12 @@ position: absolute;
 left: 0;
 top: 0;
 padding-top: 40px;
-background-color: LightSlateGray;
+background-color: white;
+  color: black
+
+
 }
+
 
 .sidebar div {
 padding: 8px;
@@ -50,5 +55,18 @@ img{
 }
 
 img{
-  border-radius: 1%
+  border-radius: 2%
 }
+
+
+h2:before {
+    content: ' \2750';
+  
+}
+ 
+}
+h2{
+  font-family: arial, sans-serif
+}
+h2{font-size: 15px}
+
