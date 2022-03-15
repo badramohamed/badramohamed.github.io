@@ -1,23 +1,54 @@
 Body {
- background-color: #17202A;
-  color: #F4F6F7;
+ background-color: #ffffff;
+  color: #000000;
  font-family: Helvetica, Tahoma sans-serif;
- margin: 10% 20%;
+ margin-left: 245px; 
+  background-color: rgb(245, 255, 250)
 }
+ 
 
 .exp-header {
   text-align: center;
   text-transform: uppercase;
   border-top: 1px solid #F4F6F7;
   border-bottom: 1px solid #F4F6F7;
-  backround-color: rgba (0,0,0,1)
+
 }
-.exp-header {background-color:#556;
-background-image: linear-gradient(30deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445),
-linear-gradient(150deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445),
-linear-gradient(30deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445),
-linear-gradient(150deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445),
-linear-gradient(60deg, #99a 25%, transparent 25.5%, transparent 75%, #99a 75%, #99a),
-linear-gradient(60deg, #99a 25%, transparent 25.5%, transparent 75%, #99a 75%, #99a);
-background-size:80px 140px;
-background-position: 0 0, 0 0, 40px 70px, 40px 70px, 0 0, 40px 70px;}
+
+
+
+.sidebar {
+height: 3000%;
+width: 170px;
+position: absolute;
+left: 0;
+top: 0;
+padding-top: 40px;
+background-color: LightSlateGray;
+}
+
+.sidebar div {
+padding: 8px;
+font-size: 24px;
+display: block;
+}
+
+img{
+  position: relative;
+  top: -40px
+   
+}
+
+
+img{
+  width: 100%
+   
+}
+
+img{
+  height: 200px
+}
+
+img{
+  border-radius: 1%
+}
